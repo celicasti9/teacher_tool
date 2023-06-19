@@ -1,8 +1,0 @@
-POST https://api.metamask.io/v1/transactions
-Content-Type: application/json
-{
-  "to": "0xf1cd1B1466aB5112151A8b57E7747F1535C5c609",
-  "value": "1000000000000000000",
-  "gasPrice": "10000000000",
-  "gasLimit": "21000"
-}
